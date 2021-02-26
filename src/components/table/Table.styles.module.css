@@ -1,0 +1,11 @@
+.container {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  overflow: auto;
+  height: 100%;
+  scroll-behavior: smooth;
+}

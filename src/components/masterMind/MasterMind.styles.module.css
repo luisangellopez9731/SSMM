@@ -1,0 +1,59 @@
+.generalContainer {
+  width: 100%;
+  height: calc(100% - 60px);
+  position: relative;
+  padding: 0 5%;
+  flex-wrap: wrap;
+}
+
+.container {
+  position: relative;
+  height: 100%;
+}
+
+.tableContainer {
+  flex: 0 1 85%;
+  /* background: gray; */
+}
+
+.pegBoxContainer {
+  flex: 0 1 10%;
+  /* background: gray; */
+}
+
+.buttonsContainer {
+  width: 100%;
+  height: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 50%;
+  height: 30px;
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  font-size: large;
+  opacity: 1;
+  transition: opacity .3s ease;
+}
+
+.button[disabled] {
+  opacity: .4;
+}
+
+.playableContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  height: 80%;
+  margin-bottom: 10px;
+}
+
+.textContainer {
+   text-align: center;
+   margin-bottom: 10px;
+}
