@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SSMM/static/css/main.dc1d7ae6.chunk.css",
+    "main.js": "/SSMM/static/js/main.cf508642.chunk.js",
+    "main.js.map": "/SSMM/static/js/main.cf508642.chunk.js.map",
+    "runtime-main.js": "/SSMM/static/js/runtime-main.b83dc253.js",
+    "runtime-main.js.map": "/SSMM/static/js/runtime-main.b83dc253.js.map",
+    "static/js/2.30db42ba.chunk.js": "/SSMM/static/js/2.30db42ba.chunk.js",
+    "static/js/2.30db42ba.chunk.js.map": "/SSMM/static/js/2.30db42ba.chunk.js.map",
+    "static/js/3.64083bea.chunk.js": "/SSMM/static/js/3.64083bea.chunk.js",
+    "static/js/3.64083bea.chunk.js.map": "/SSMM/static/js/3.64083bea.chunk.js.map",
+    "index.html": "/SSMM/index.html",
+    "static/css/main.dc1d7ae6.chunk.css.map": "/SSMM/static/css/main.dc1d7ae6.chunk.css.map",
+    "static/js/2.30db42ba.chunk.js.LICENSE.txt": "/SSMM/static/js/2.30db42ba.chunk.js.LICENSE.txt",
+    "static/media/lose.13fcd0a4.png": "/SSMM/static/media/lose.13fcd0a4.png",
+    "static/media/win.69ba92de.jpg": "/SSMM/static/media/win.69ba92de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b83dc253.js",
+    "static/js/2.30db42ba.chunk.js",
+    "static/css/main.dc1d7ae6.chunk.css",
+    "static/js/main.cf508642.chunk.js"
+  ]
+}
